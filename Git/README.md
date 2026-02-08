@@ -1,1 +1,1 @@
-* This is my Git file 
+* This is my git-file 

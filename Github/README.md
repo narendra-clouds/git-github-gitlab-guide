@@ -1,1 +1,1 @@
-* This is my Git hub file 
+* This is my git-hub file 
